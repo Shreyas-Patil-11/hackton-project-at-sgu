@@ -4,7 +4,7 @@ import {
   HarmCategory,
 } from "@google/generative-ai";
 
-const apiKey = "AIzaSyBIuF94u2EmG9Fv1pzJN9946vG5xxZUay0";
+const apiKey = "GEMINI_API";
 const genAI = new GoogleGenerativeAI(apiKey);
 
 const model = genAI.getGenerativeModel({
