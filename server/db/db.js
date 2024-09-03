@@ -1,7 +1,7 @@
 import { requirePropFactory } from '@mui/material';
 import { connect } from 'mongoose';
 
-const uri = "mongodb+srv://junaidbargir70:root@demo-db.bnhuz.mongodb.net/?retryWrites=true&w=majority&appName=demo-db";
+const uri = "MONGO_API";
 
 const connectDB = async () => {
     try {
