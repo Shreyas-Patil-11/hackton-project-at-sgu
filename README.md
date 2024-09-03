@@ -62,7 +62,7 @@ your-repo-name/
 │   ├── assets/            # Local image files, fonts, etc.
 │   ├── components/        # Reusable React components
 │   ├── pages/             # Page-level components or views
-│   ├── subpages
+│   ├── subpages/
 │   ├── App.jsx            # Main application component
 │   ├── main.jsx           # Entry point for the React app
 │   └── index.css          # Global styles
